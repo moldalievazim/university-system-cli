@@ -1,5 +1,3 @@
-# ruby-cli-template
+# university-system-cli
 
-Use this repository as a template for your Ruby CLI (command line interface) project.
-
-- Ruby version: `3.2.1`
+Using this University System CLI application you can add or remove students, also read or update their information. To see how this app works *run app.rb*.
