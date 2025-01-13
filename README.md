@@ -1,4 +1,4 @@
-# University-cli
+# University CLI
 
 A command line interface to simulate university
 
