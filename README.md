@@ -1,7 +1,7 @@
-# university-system-cli
+# University-cli
 
 A command line interface to simulate university
 
-# usage
+# Usage
 
 Run ruby app.rb in the terminal
